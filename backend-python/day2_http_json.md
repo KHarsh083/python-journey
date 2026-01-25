@@ -18,3 +18,18 @@ HTTPS status code:
 3xx : Redirection
 4xx : client error
 5xx : server error
+
+Json or JavaScript Object Notation:
+It is :
+1. Data representation Format
+2. extremely lightweight and easy to read
+3. used for basically all apis and config
+4. Also integrates easily with javascript bcz json is uperset of javascript 
+
+Json Data Types:
+1. arrays
+2. strings
+3. number(any, float , int etc)
+4. null
+5. obejcts {'key:'value'}
+6. Booloeans
