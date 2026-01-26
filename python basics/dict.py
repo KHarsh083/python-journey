@@ -26,7 +26,7 @@ print(val)
 print(len(student1)) #give no of keys in dict
 print(student1.keys())
 print(student1.values())
-
+print("\n here\n")
 print(student1.items())   #gives key value pairs
 print("\n")
 #for loop
